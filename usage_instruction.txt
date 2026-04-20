@@ -8,7 +8,7 @@ python3 -m venv venv
 
 ```
 
-### 3. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 
@@ -17,22 +17,16 @@ pip install groq
 
 ```
 
-### 4. Setup API Key
+### 3. Setup API Key
 
-Create a `.env` file and add your API key:
-
-```
-OPENAI_API_KEY=your_api_key_here
-```
-
-### 5. Run the Application
+### 4. Run the Application
 
 ```
 streamlit run app.py
 ```
 
 
-### 7. How to Use
+### 5. How to Use
 
 * Enter your query (e.g., "What is the fees?")
 * The chatbot will generate a response using AI.
