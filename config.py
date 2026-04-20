@@ -4,9 +4,10 @@
 # ─────────────────────────────────────────────────────────
 
 
-COLLEGE_NAME = "Shoolini university"
 import os
 from dotenv import load_dotenv
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+GROQ_API_KEY="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"
+COLLEGE_NAME = "Shoolini university"
