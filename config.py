@@ -3,7 +3,6 @@
 # Get your FREE Groq API key from: https://console.groq.com
 # ─────────────────────────────────────────────────────────
 
-#GROQ_API_KEY = "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"   # 🔑 Replace this!
 
 COLLEGE_NAME = "Shoolini university"
 import os
